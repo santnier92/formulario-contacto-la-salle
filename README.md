@@ -105,8 +105,8 @@ Acceder desde el navegador:
 
 ---
 
-**✍️ Autor 📌
+**✍️ Autores 📌
 
-- Nombre: Santiago Nieto Rodriguez
+- Nombre: Santiago Nieto Rodriguez y Santiago Perez Garzon
 - Curso: Ingeniería de Software - Quinto semestre
 - Universidad: La Salle
