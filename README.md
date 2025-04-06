@@ -78,6 +78,7 @@ Podemos ver los mensajes almacenados accediendo a:
 
 [https://santnier92.github.io/formulario-contacto-la-salle](https://santnier92.github.io/formulario-contacto-la-salle)
 
+---
 
 ## 🛠️ Requisitos para pruebas locales
 
@@ -85,11 +86,13 @@ Podemos ver los mensajes almacenados accediendo a:
 - Apache y MySQL activos
 - Base de datos llamada `bd_contacto` con la tabla `mensajes`
 
+---
 
 Acceder desde el navegador:
 
 [http://localhost/formulario-contacto-la-salle/index.html](http://localhost/formulario-contacto-la-salle/index.html)
 
+---
 
 **📦 Cómo subir cambios al repositorio
 
