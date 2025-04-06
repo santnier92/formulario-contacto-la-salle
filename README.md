@@ -59,6 +59,7 @@ CREATE TABLE mensajes (
 Colocar los archivos procesar.php y ver_mensajes.php a la ruta: `C:\xampp\htdocs\formulario-contacto-la-salle\`
 
 **📤 Envío de formulario**  
+
 Los datos ingresados se almacenan en la base de datos local mediante `procesar.php`.
 
 **👀 Ver mensajes**
@@ -84,6 +85,7 @@ Acceder desde el navegador:
 
 
 **📦 Cómo subir cambios al repositorio
+
 git add .
 git commit -m "Actualización final del proyecto"
 git push origin main
@@ -91,6 +93,7 @@ git push origin main
 ---
 
 **✍️ Autor 📌
-Nombre: Santiago Nieto Rodriguez
-Curso: Ingeniería de Software - Quinto semestre
-Universidad: La Salle
+
+- Nombre: Santiago Nieto Rodriguez
+- Curso: Ingeniería de Software - Quinto semestre
+- Universidad: La Salle
