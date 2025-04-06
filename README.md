@@ -27,11 +27,11 @@ El formulario permite a los usuarios ingresar su nombre, correo electrónico y u
 
 ## 💡 Funcionalidades
 
--Formulario con validaciones básicas (nombre, correo, mensaje).
--Envío de datos a procesar.php vía método POST.
--Almacenamiento en base de datos bd_contacto.
--Visualización de los mensajes recibidos en ver_mensajes.php.
--Estilos personalizados con CSS.
+- Formulario con validaciones básicas (nombre, correo, mensaje).
+- Envío de datos a procesar.php vía método POST.
+- Almacenamiento en base de datos bd_contacto.
+- Visualización de los mensajes recibidos en ver_mensajes.php.
+- Estilos personalizados con CSS.
 
 ## 🔧 Configuración Local (XAMPP)
 
