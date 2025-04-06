@@ -57,11 +57,13 @@ CREATE TABLE mensajes (
 ⚙️ Configuración para pruebas locales
 
 Colocar los archivos procesar.php y ver_mensajes.php a la ruta: `C:\xampp\htdocs\formulario-contacto-la-salle\`
+
 ---
 
 **📤 Envío de formulario**  
 
 Los datos ingresados se almacenan en la base de datos local mediante `procesar.php`.
+
 ---
 
 **👀 Ver mensajes**
@@ -69,6 +71,7 @@ Los datos ingresados se almacenan en la base de datos local mediante `procesar.p
 Podemos ver los mensajes almacenados accediendo a:
 
 [http://localhost/formulario-contacto-la-salle/ver_mensajes.php](http://localhost/formulario-contacto-la-salle/ver_mensajes.php)
+
 ---
 
 ## 🚀 Versión en línea
