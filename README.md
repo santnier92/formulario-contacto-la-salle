@@ -35,10 +35,10 @@ El formulario permite a los usuarios ingresar su nombre, correo electrónico y u
 
 ## 🔧 Configuración Local (XAMPP)
 
-1.Abre XAMPP y enciende Apache y MySQL.
-2.Ingresa a http://localhost/phpmyadmin
-3.Crea la base de datos bd_contacto.
-4.Ejecuta el siguiente SQL para crear la base de datos y tabla:
+1. Abre XAMPP y enciende Apache y MySQL.
+2. Ingresa a http://localhost/phpmyadmin
+3. Crea la base de datos bd_contacto.
+4. Ejecuta el siguiente SQL para crear la base de datos y tabla:
 
 ## Creación de la base de datos
 
