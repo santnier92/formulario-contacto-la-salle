@@ -57,20 +57,24 @@ CREATE TABLE mensajes (
 ⚙️ Configuración para pruebas locales
 
 Colocar los archivos procesar.php y ver_mensajes.php a la ruta: `C:\xampp\htdocs\formulario-contacto-la-salle\`
+---
 
 **📤 Envío de formulario**  
 
 Los datos ingresados se almacenan en la base de datos local mediante `procesar.php`.
+---
 
 **👀 Ver mensajes**
 
 Podemos ver los mensajes almacenados accediendo a:
 
 [http://localhost/formulario-contacto-la-salle/ver_mensajes.php](http://localhost/formulario-contacto-la-salle/ver_mensajes.php)
+---
 
 ## 🚀 Versión en línea
 
 [https://santnier92.github.io/formulario-contacto-la-salle](https://santnier92.github.io/formulario-contacto-la-salle)
+
 
 ## 🛠️ Requisitos para pruebas locales
 
@@ -86,9 +90,9 @@ Acceder desde el navegador:
 
 **📦 Cómo subir cambios al repositorio
 
-git add .
-git commit -m "Actualización final del proyecto"
-git push origin main
+- git add .
+- git commit -m "Actualización final del proyecto"
+- git push origin main
 
 ---
 
