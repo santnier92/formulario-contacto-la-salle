@@ -40,7 +40,7 @@ El formulario permite a los usuarios ingresar su nombre, correo electrónico y u
 3. Crea la base de datos bd_contacto.
 4. Ejecuta el siguiente SQL para crear la base de datos y tabla:
 
-## Creación de la base de datos
+##📋 Creación de la base de datos
 
 ```sql
 CREATE DATABASE bd_contacto;
@@ -53,6 +53,7 @@ CREATE TABLE mensajes (
     mensaje TEXT
 );
 ```
+---
 
 ⚙️ Configuración para pruebas locales
 
